@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Prism",
+		"description": "Prism adds the necessary CSS to themes to highlight code if the editor TinyMCE uses the plugin Codesample."
+	},
+	"there-are-no-settings-for-this-plugin": "There are no settings for this plugin."
+}
